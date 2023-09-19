@@ -1,0 +1,11 @@
+A funcionalidade de Gestão de Estoque no sistema ERP permite que as empresas 
+gerenciem de maneira mais fácil os seus produtos, materiais e ativos.
+
+Principais recursos:
+- Rastreamento de inventário em tempo real
+- Geração de relatórios de estoque
+- Gerenciamento de pedidos de compra e venda
+- Cálculo de custos de estoque
+
+Tem como objetivo a garanti a que os produtos vão estar disponíveis quando necessário, 
+minimizando os custos de armazenamento e evitando escassez ou excesso de estoque.
