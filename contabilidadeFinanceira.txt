@@ -1,0 +1,12 @@
+A funcionalidade de Contabilidade Financeira no ERP é essencial para o 
+controle e registro das transações financeiras de uma empresa.
+
+Principais recursos:
+Registro de transações contábeis
+Geração de demonstrações financeiras
+Controle de contas a receber e a pagar
+Conciliação bancária
+
+Tem como o objetivo de fornecer informações financeiras precisas para 
+a tomada de decisões estratégicas, cumprir obrigações fiscais e monitorar 
+o desempenho financeiro da empresa.
