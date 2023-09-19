@@ -1,0 +1,12 @@
+A funcionalidade de Recursos Humanos no ERP abrange a gestão de informações 
+sobre funcionários, folha de pagamento e  os processos de RH.
+
+Principais recursos:
+Registro de dados de funcionários
+Administração de benefícios e licenças
+Processamento de folha de pagamento
+Avaliação de desempenho
+
+E tem como o objetivo de gerenciar com eficácia o capital humano da empresa,
+otimizar os processos de RH, garantir a conformidade com regulamentações trabalhistas 
+e melhorar o envolvimento dos funcionários.
